@@ -1,6 +1,3 @@
-					README
-
-
 
 -> Make sure python is installed on your Pc. Version: 3.11.0
 
